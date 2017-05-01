@@ -1,3 +1,3 @@
-# xmpp_echoboot
+# xmpp_echobot
 
-http://sleekxmpp.com/getting_started/echobot.html
+python echobot.py -d -j echobot@example.com
